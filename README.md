@@ -1,5 +1,5 @@
 # 预览
-
+![预览图](https://github.com/0ui0/project1/blob/master/preview.png)
 # 介绍
 这是一个超级超级简单滴静态博客项目<(￣︶￣)>
 不过需要服务器环境才能运行╮(╯▽╰)╭
